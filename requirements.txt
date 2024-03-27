@@ -1,5 +1,4 @@
 pandas
 streamlit
-time
 streamlit_option_menu
 plotly.express
